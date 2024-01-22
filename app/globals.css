@@ -93,7 +93,7 @@ body {
   }
 
   .bold-88 {
-    @apply text-[88px] font-[700] leading-[120%];
+    @apply text-[80px] font-[700] leading-[120%];
   }
 
   .bold-64 {
